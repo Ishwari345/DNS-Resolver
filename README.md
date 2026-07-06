@@ -119,17 +119,6 @@ python dns_gui_client_toggle.py
 
 ---
 
-## 📷 Screenshots
-
-> Add screenshots after testing the application.
-
-- GUI Interface
-- CLI Interface
-- DNS Query Results
-- Cache Hit / Miss Demonstration
-
----
-
 ## 🎯 Learning Outcomes
 
 This project helped in understanding:
@@ -174,7 +163,3 @@ GitHub: https://github.com/Ishwari345
 - Computer Networks – Andrew S. Tanenbaum
 
 ---
-
-## ⭐ If you found this project interesting...
-
-Give this repository a ⭐ on GitHub!
